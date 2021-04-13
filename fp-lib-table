@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri D:/Downloads/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri D:/Downloads/keyswitches.pretty-master)(options "")(descr ""))
+  (lib (name kicad-libraries-master)(type KiCad)(uri D:/Downloads/kicad-libraries-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri D:/Downloads/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri D:/Downloads/MX_Only.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri D:/Downloads/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri D:/Downloads/WS2812B.pretty-master)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri D:/Downloads/random-keyboard-parts.pretty-master)(options "")(descr ""))
+)
