@@ -21,7 +21,7 @@
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user hide)
+    (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)
@@ -407,7 +407,7 @@
   )
 
   (module Type-C:HRO-TYPE-C-31-M-12 (layer B.Cu) (tedit 5C42C658) (tstamp 6076DA03)
-    (at 166.6875 27.78125 180)
+    (at 170.65625 28.575 180)
     (path /6075E2AA)
     (attr smd)
     (fp_text reference USB1 (at 0 9.25) (layer B.SilkS)
@@ -721,7 +721,7 @@
     (pad "" np_thru_hole circle (at 2.54 -5.08 180) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   )
 
-  (module MX_Only:MXOnly-6.25U-Hotswap (layer F.Cu) (tedit 5C4554B2) (tstamp 6076D944)
+  (module MX_Only:MXOnly-6.25U-Hotswap (layer F.Cu) (tedit 5C4554B2) (tstamp 607857A7)
     (at 135.73125 179.3875)
     (path /609E51C1)
     (attr smd)
@@ -3710,7 +3710,7 @@
   )
 
   (module Fuse:Fuse_1206_3216Metric (layer B.Cu) (tedit 5B301BBE) (tstamp 60778C1B)
-    (at 175.23125 25.4)
+    (at 155.575 20.6375)
     (descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags resistor)
     (path /60775B3C)
